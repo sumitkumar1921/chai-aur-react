@@ -3,6 +3,7 @@
 ## api link
 
 ```javascript
+let url = "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@2024.12.30/v1/currencies/inr.json
 let url = `https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${currency}.json`
 
 ```
